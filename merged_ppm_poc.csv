@@ -1,57 +1,57 @@
 Period Month,#Cost Plans,Cost Plan Id,#Actuals,Project Manager,Product Group,IT Stream,Cost Type,Company,Cost Center,Cost Plan Start Date,Cost Plan End Date
-1/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-1/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-2/19/2023,10000,1,100,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-2/19/2023,10000,1,125,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-2/19/2023,10000,1,300,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-2/19/2023,10000,1,200,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-3/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-3/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-4/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-4/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-5/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-5/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-6/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-6/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-7/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-7/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-8/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-8/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-9/19/2023,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-9/19/2023,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-10/19/2023,10000,1,5000,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-10/19/2023,10000,1,990,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-11/19/2023,10000,1,300,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-11/19/2023,10000,1,250,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-12/19/2023,10000,1,1300,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
-12/19/2023,10000,1,550,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
-1/20/2023,250000,2,5000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-1/20/2023,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-2/20/2023,250000,2,3000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-2/20/2023,250000,2,32000,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-2/20/2023,250000,2,3000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-2/20/2023,250000,2,2000,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-3/20/2023,250000,2,0,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-3/20/2023,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-4/20/2023,250000,2,0,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-4/20/2023,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-5/20/2023,250000,2,0,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-5/20/2023,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-6/20/2023,250000,2,155000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
-6/20/2023,250000,2,45230,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
-7/20/2023,50000,3,0,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
-7/20/2023,50000,3,0,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
-8/20/2023,50000,3,343,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
-8/20/2023,50000,3,0,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
-9/20/2023,50000,3,0,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
-9/20/2023,50000,3,0,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
-10/20/2023,50000,3,5421,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
-10/20/2023,50000,3,876,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
-11/20/2023,50000,3,421,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
-11/20/2023,50000,3,135,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
-12/20/2023,50000,3,13000,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
-12/20/2023,50000,3,15000,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
-1/21/2023,35000,4,0,Jordi,D,OCIO,Cloud Apps,Nestle Srv Grl,9999,21-Jan,21-Mar
-2/21/2023,35000,4,0,Jordi,D,OCIO,Cloud Apps,Nestle Srv Grl,9999,21-Jan,21-Mar
-3/21/2023,35000,4,34653,Jordi,D,OCIO,Cloud Apps,Nestle Srv Grl,9999,21-Jan,21-Mar
-3/21/2023,50000,3,13875,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Jan-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Jan-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Feb-19,10000,1,100,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Feb-19,10000,1,125,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Feb-19,10000,1,300,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Feb-19,10000,1,200,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Mar-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Mar-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Apr-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Apr-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+May-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+May-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Jun-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Jun-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Jul-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Jul-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Aug-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Aug-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Sep-19,10000,1,0,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Sep-19,10000,1,0,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Oct-19,10000,1,5000,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Oct-19,10000,1,990,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Nov-19,10000,1,300,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Nov-19,10000,1,250,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Dec-19,10000,1,1300,Louis,A,IT Innovation,Cloud Apps,Nestle Gobal,12345,19-Jan,19-Dec
+Dec-19,10000,1,550,Louis,A,IT Innovation,Software,Nestle Gobal,12345,19-Jan,19-Dec
+Jan-20,250000,2,5000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+Jan-20,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+Feb-20,250000,2,3000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+Feb-20,250000,2,32000,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+Feb-20,250000,2,3000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+Feb-20,250000,2,2000,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+Mar-20,250000,2,0,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+Mar-20,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+Apr-20,250000,2,0,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+Apr-20,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+May-20,250000,2,0,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+May-20,250000,2,0,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+Jun-20,250000,2,155000,Alonso,B,IT HR,Cloud Apps,Nestle Gobal,6789,20-Jan,20-Jun
+Jun-20,250000,2,45230,Alonso,B,IT HR,Software,Nestle Gobal,6789,20-Jan,20-Jun
+Jul-20,50000,3,0,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
+Jul-20,50000,3,0,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Aug-20,50000,3,343,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
+Aug-20,50000,3,0,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Sep-20,50000,3,0,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
+Sep-20,50000,3,0,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Oct-20,50000,3,5421,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
+Oct-20,50000,3,876,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Nov-20,50000,3,421,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
+Nov-20,50000,3,135,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Dec-20,50000,3,13000,Louis,C,IT Innovation,Cloud Apps,Nestle Nestec,1010,20-Jan,21-Mar
+Dec-20,50000,3,15000,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
+Jan-21,35000,4,0,Jordi,D,OCIO,Cloud Apps,Nestle Srv Grl,9999,21-Jan,21-Mar
+Feb-21,35000,4,0,Jordi,D,OCIO,Cloud Apps,Nestle Srv Grl,9999,21-Jan,21-Mar
+Mar-21,35000,4,34653,Jordi,D,OCIO,Cloud Apps,Nestle Srv Grl,9999,21-Jan,21-Mar
+Mar-21,50000,3,13875,Louis,C,IT Innovation,Software,Nestle Nestec,1010,20-Jan,21-Mar
